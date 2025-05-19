@@ -29,7 +29,7 @@ export function AboutUs() {
                 </div>
                 <div>
                   <CardTitle>Oskar Schilling</CardTitle>
-                  <CardDescription>Mitgründer & Geschäftsführer</CardDescription>
+                  <CardDescription>Gründer</CardDescription>
                 </div>
               </div>
             </CardHeader>
@@ -59,7 +59,7 @@ export function AboutUs() {
                 </div>
                 <div>
                   <CardTitle>Felix Becker</CardTitle>
-                  <CardDescription>Mitgründer & Entwickler</CardDescription>
+                  <CardDescription>Gründer</CardDescription>
                 </div>
               </div>
             </CardHeader>
