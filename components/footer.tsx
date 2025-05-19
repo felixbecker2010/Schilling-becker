@@ -26,10 +26,10 @@ export function Footer() {
             </div>
             <h3 className="text-base font-medium">E-Mail</h3>
             <Link
-              href="mailto:info@schilling-becker.de"
+              href="mailto:info@schilling-becker.com"
               className="text-green-800 hover:text-green-700 hover:underline flex items-center"
             >
-              info@schilling-becker.de
+              info@schilling-becker.com
               <ExternalLink className="ml-1 h-3 w-3" />
             </Link>
           </div>
