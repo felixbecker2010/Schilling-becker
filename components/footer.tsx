@@ -26,10 +26,10 @@ export function Footer() {
             </div>
             <h3 className="text-base font-medium">E-Mail</h3>
             <Link
-              href="mailto:info@schilling-becker.com"
+              href="mailto:info@felixbecker.group"
               className="text-green-800 hover:text-green-700 hover:underline flex items-center"
             >
-              info@schilling-becker.com
+              info@felixbecker.group
               <ExternalLink className="ml-1 h-3 w-3" />
             </Link>
           </div>
@@ -52,7 +52,7 @@ export function Footer() {
             </div>
             <h3 className="text-base font-medium">Adresse</h3>
             <p className="text-gray-600">
-              Südstraße 28
+              Bernsteinstraße 7
               <br />
               31275 Lehrte
             </p>

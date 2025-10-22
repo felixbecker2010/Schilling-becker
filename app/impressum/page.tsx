@@ -9,21 +9,20 @@ export default function ImpressumPage() {
 
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">Impressum</h2>
-            <p className="mb-1">Oskar Schilling</p>
-            <p className="mb-1">SCHILLING & BECKER</p>
-            <p className="mb-1">Südstraße, 28</p>
+            <p className="mb-1">Felix Becker</p>
+            <p className="mb-1">BECKER group</p>
+            <p className="mb-1">Bernsteinstraße 7</p>
             <p className="mb-4">31275 Lehrte</p>
           </section>
 
           <section className="mb-8">
             <h2 className="text-xl font-semibold mb-4">Kontakt</h2>
             <p className="mb-1">Telefon: 017642986978</p>
-            <p className="mb-4">E-Mail: info@schilling-becker.com</p>
+            <p className="mb-4">E-Mail: info@felixbecker.group</p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-xl font-semibold mb-4">Verbraucherstreitbeilegung / 
-            Universalschlichtungsstelle</h2>
+            <h2 className="text-xl font-semibold mb-4">Verbraucherstreitbeilegung / Universalschlichtungsstelle</h2>
             <p className="mb-4 text-gray-700">
               Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer
               Verbraucherschlichtungsstelle teilzunehmen.
@@ -37,7 +36,7 @@ export default function ImpressumPage() {
             <p className="mb-4 text-gray-700">
               Unsere zentrale Kontaktstelle für Nutzer und Behörden nach Art. 11, 12 DSA erreichen Sie wie folgt:
             </p>
-            <p className="mb-1">E-Mail: info@schilling-becker.com</p>
+            <p className="mb-1">E-Mail: info@felixbecker.group</p>
             <p className="mb-1">Telefon: 017642986978</p>
             <p className="mb-4">Die für den Kontakt zur Verfügung stehenden Sprachen sind: Deutsch, Englisch.</p>
           </section>
@@ -153,12 +152,12 @@ export default function ImpressumPage() {
             <p className="mb-4 text-gray-700">
               Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
             </p>
-            <p className="mb-1">Oskar Schilling</p>
-            <p className="mb-1">SCHILLING & BECKER</p>
-            <p className="mb-1">Südstraße, 28</p>
+            <p className="mb-1">Felix Becker</p>
+            <p className="mb-1">BECKER group</p>
+            <p className="mb-1">Bernsteinstraße 7</p>
             <p className="mb-1">31275 Lehrte</p>
             <p className="mb-1">Telefon: 017642986978</p>
-            <p className="mb-4">E-Mail: info@schilling-becker.com</p>
+            <p className="mb-4">E-Mail: info@felixbecker.group</p>
             <p className="mb-4 text-gray-700">
               Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen
               über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o.
